@@ -1,0 +1,17 @@
+{
+  "name": "permit.js",
+  "version": "1.0.0",
+  "description": "Simple login-only Node.js backend app using Express, deployable to Vercel.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["express", "login", "nodejs", "backend", "vercel"],
+  "author": "Himesh Kukadiya",
+  "license": "ISC",
+  "packageManager": "pnpm@10.8.1",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
